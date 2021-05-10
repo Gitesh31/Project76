@@ -1,0 +1,12 @@
+								User Story		
+Text Wieframe
+1st Screen - Login Screen
+(Will switch througth swith navigator)
+2ed Screen - Barter Screen
+(Will have sub screens)-
+a Donate Book
+b  Recive Book
+
+b User - Request for a book and recive notification conformtaion (inapp)
+a Doner - Active book request  , adress , payment , sending notification , vice versa
+c Admin - Users to sign up and autentiate login , Book organisation and management 
